@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" 
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Viandes &#8211; Dozo</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Chinese sushi Restaurant</description>
+	<lastBuildDate>Wed, 13 Apr 2022 20:35:51 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>./../../../wp-content/uploads/2021/10/cropped-cropped-稻早Dozo-Logo-black-w500-32x32.jpg</url>
+	<title>Viandes &#8211; Dozo</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">198797679</site>	<item>
+		<title>54 Filet de bœuf au poivre noir</title>
+		<link>./../../../product/54-filet-de-boeuf-au-poivre-noir/index.html</link>
+		
+		<dc:creator><![CDATA[cyberlinking.developer@gmail.com]]></dc:creator>
+		<pubDate>Wed, 13 Oct 2021 21:56:39 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=162</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">162</post-id>	</item>
+		<item>
+		<title>52 Filet de boeuf façon du chef</title>
+		<link>./../../../product/52-filet-de-boeuf-facon-du-chef/index.html</link>
+		
+		<dc:creator><![CDATA[cyberlinking.developer@gmail.com]]></dc:creator>
+		<pubDate>Wed, 13 Oct 2021 21:55:25 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=160</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">160</post-id>	</item>
+		<item>
+		<title>51 Filet de boeuf façon Thai</title>
+		<link>./../../../product/51-filet-de-boeuf-facon-thai/index.html</link>
+		
+		<dc:creator><![CDATA[cyberlinking.developer@gmail.com]]></dc:creator>
+		<pubDate>Wed, 13 Oct 2021 21:54:45 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=159</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">159</post-id>	</item>
+		<item>
+		<title>50 Trois émincé sauce piquante</title>
+		<link>./../../../product/50-trois-emince-sauce-piquante/index.html</link>
+		
+		<dc:creator><![CDATA[cyberlinking.developer@gmail.com]]></dc:creator>
+		<pubDate>Wed, 13 Oct 2021 21:54:13 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=158</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">158</post-id>	</item>
+	</channel>
+</rss>

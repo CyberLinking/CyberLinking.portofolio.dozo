@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" 
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Entrées &#8211; Dozo</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Chinese sushi Restaurant</description>
+	<lastBuildDate>Wed, 13 Apr 2022 20:33:16 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>./../../../wp-content/uploads/2021/10/cropped-cropped-稻早Dozo-Logo-black-w500-32x32.jpg</url>
+	<title>Entrées &#8211; Dozo</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">198797679</site>	<item>
+		<title>16 Raviolis à la vapeur</title>
+		<link>./../../../product/16-raviolis-a-la-vapeur/index.html</link>
+		
+		<dc:creator><![CDATA[cyberlinking.developer@gmail.com]]></dc:creator>
+		<pubDate>Wed, 13 Oct 2021 21:43:12 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=147</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">147</post-id>	</item>
+		<item>
+		<title>15 Dim sums variés</title>
+		<link>./../../../product/15-dim-sums-varies/index.html</link>
+		
+		<dc:creator><![CDATA[cyberlinking.developer@gmail.com]]></dc:creator>
+		<pubDate>Wed, 13 Oct 2021 21:42:15 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=146</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">146</post-id>	</item>
+		<item>
+		<title>14 Gyoza</title>
+		<link>./../../../product/14-gyoza/index.html</link>
+		
+		<dc:creator><![CDATA[cyberlinking.developer@gmail.com]]></dc:creator>
+		<pubDate>Wed, 13 Oct 2021 21:41:40 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=145</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">145</post-id>	</item>
+		<item>
+		<title>13 Yakitori ( Brochettes de poulet)</title>
+		<link>./../../../product/13-yakitori-brochettes-de-poulet/index.html</link>
+		
+		<dc:creator><![CDATA[cyberlinking.developer@gmail.com]]></dc:creator>
+		<pubDate>Wed, 13 Oct 2021 21:41:05 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=144</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">144</post-id>	</item>
+		<item>
+		<title>12 Tempura au scampis</title>
+		<link>./../../../product/12-tempura-au-scampis/index.html</link>
+		
+		<dc:creator><![CDATA[cyberlinking.developer@gmail.com]]></dc:creator>
+		<pubDate>Wed, 13 Oct 2021 21:40:27 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=143</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">143</post-id>	</item>
+		<item>
+		<title>11 Nems</title>
+		<link>./../../../product/11-nems/index.html</link>
+		
+		<dc:creator><![CDATA[cyberlinking.developer@gmail.com]]></dc:creator>
+		<pubDate>Wed, 13 Oct 2021 21:39:55 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=142</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">142</post-id>	</item>
+		<item>
+		<title>10 Mini croquettes</title>
+		<link>./../../../product/10-mini-croquettes/index.html</link>
+		
+		<dc:creator><![CDATA[cyberlinking.developer@gmail.com]]></dc:creator>
+		<pubDate>Wed, 13 Oct 2021 21:39:27 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=141</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">141</post-id>	</item>
+	</channel>
+</rss>

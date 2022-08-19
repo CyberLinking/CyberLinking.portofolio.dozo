@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" 
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Spring Roll (8pcs) &#8211; Dozo</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
+	<description>Chinese sushi Restaurant</description>
+	<lastBuildDate>Thu, 14 Oct 2021 18:45:05 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>./../../../../wp-content/uploads/2021/10/cropped-cropped-稻早Dozo-Logo-black-w500-32x32.jpg</url>
+	<title>Spring Roll (8pcs) &#8211; Dozo</title>
+	<link>./../../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">198797679</site>	<item>
+		<title>215 Tempura mangue</title>
+		<link>./../../../../product/215-tempura-mangue/index.html</link>
+		
+		<dc:creator><![CDATA[cyberlinking.developer@gmail.com]]></dc:creator>
+		<pubDate>Thu, 14 Oct 2021 18:45:05 +0000</pubDate>
+				<guid isPermaLink="false">./../../../../index.html?post_type=product&#038;p=281</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">281</post-id>	</item>
+		<item>
+		<title>214 Crevetets avocat</title>
+		<link>./../../../../product/214-crevetets-avocat/index.html</link>
+		
+		<dc:creator><![CDATA[cyberlinking.developer@gmail.com]]></dc:creator>
+		<pubDate>Thu, 14 Oct 2021 18:29:31 +0000</pubDate>
+				<guid isPermaLink="false">./../../../../index.html?post_type=product&#038;p=280</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">280</post-id>	</item>
+		<item>
+		<title>213 Thon mangue</title>
+		<link>./../../../../product/213-thon-mangue/index.html</link>
+		
+		<dc:creator><![CDATA[cyberlinking.developer@gmail.com]]></dc:creator>
+		<pubDate>Thu, 14 Oct 2021 18:28:36 +0000</pubDate>
+				<guid isPermaLink="false">./../../../../index.html?post_type=product&#038;p=279</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">279</post-id>	</item>
+		<item>
+		<title>212 Thon avocat</title>
+		<link>./../../../../product/212-thon-avocat/index.html</link>
+		
+		<dc:creator><![CDATA[cyberlinking.developer@gmail.com]]></dc:creator>
+		<pubDate>Thu, 14 Oct 2021 18:27:42 +0000</pubDate>
+				<guid isPermaLink="false">./../../../../index.html?post_type=product&#038;p=278</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">278</post-id>	</item>
+		<item>
+		<title>211 Saumon mangue</title>
+		<link>./../../../../product/211-saumon-mangue/index.html</link>
+		
+		<dc:creator><![CDATA[cyberlinking.developer@gmail.com]]></dc:creator>
+		<pubDate>Thu, 14 Oct 2021 18:26:17 +0000</pubDate>
+				<guid isPermaLink="false">./../../../../index.html?post_type=product&#038;p=277</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">277</post-id>	</item>
+		<item>
+		<title>210 Saumon avocat</title>
+		<link>./../../../../product/210-saumon-avocat/index.html</link>
+		
+		<dc:creator><![CDATA[cyberlinking.developer@gmail.com]]></dc:creator>
+		<pubDate>Thu, 14 Oct 2021 17:12:03 +0000</pubDate>
+				<guid isPermaLink="false">./../../../../index.html?post_type=product&#038;p=276</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">276</post-id>	</item>
+	</channel>
+</rss>

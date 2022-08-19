@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" 
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Hot Roll (8pcs) &#8211; Dozo</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link href="">./../../../../index.html</link>
+	<description>Chinese sushi Restaurant</description>
+	<lastbuilddate>Sat, 12 Feb 2022 20:48:11 +0000</lastbuilddate>
+	<language>en-GB</language>
+	<sy:updateperiod>
+	hourly	</sy:updateperiod>
+	<sy:updatefrequency>
+	1	</sy:updatefrequency>
+	
+
+<image>
+	<url>./../../../../../wp-content/uploads/2021/10/cropped-cropped-稻早Dozo-Logo-black-w500-32x32.jpg</url>
+	<title>Hot Roll (8pcs) &#8211; Dozo</title>
+	<link href="">./../../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">198797679</site>	<item>
+		<title>222 Maki Poulet</title>
+		<link href="">./../../../../product/222-maki-poulet/index.html</link>
+		
+		<dc:creator><![CDATA[cyberlinking.developer@gmail.com]]></dc:creator>
+		<pubdate>Thu, 14 Oct 2021 18:55:13 +0000</pubdate>
+				<guid ispermalink="false">./../../../../../index.html?post_type=product&#038;p=290</guid>
+
+					<description><![CDATA[Intérieur : poulet frit / mangue / cheese   Dessus : mayo / teriyaki]]></description>
+										<content:encoded><![CDATA[<p><i>Intérieur : poulet frit / mangue / cheese</i></p>
+<p><i><span class="Apple-converted-space">  </span>Dessus : mayo / teriyaki</i></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">290</post-id>	</item>
+		<item>
+		<title>221 Maki Saumon</title>
+		<link href="">./../../../../product/221-maki-saumon/index.html</link>
+		
+		<dc:creator><![CDATA[cyberlinking.developer@gmail.com]]></dc:creator>
+		<pubdate>Thu, 14 Oct 2021 18:53:32 +0000</pubdate>
+				<guid ispermalink="false">./../../../../../index.html?post_type=product&#038;p=287</guid>
+
+					<description><![CDATA[Intérieur : saumon / ciboulette / cheese   Dessus : mayo / teriyak]]></description>
+										<content:encoded><![CDATA[<p><i>Intérieur : saumon / ciboulette / cheese</i></p>
+<p><i><span class="Apple-converted-space">  </span>Dessus : mayo / teriyak</i></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">287</post-id>	</item>
+		<item>
+		<title>220 Maki Tempura</title>
+		<link href="">./../../../../product/220-maki-tempura/index.html</link>
+		
+		<dc:creator><![CDATA[cyberlinking.developer@gmail.com]]></dc:creator>
+		<pubdate>Thu, 14 Oct 2021 18:51:48 +0000</pubdate>
+				<guid ispermalink="false">./../../../../../index.html?post_type=product&#038;p=284</guid>
+
+					<description><![CDATA[Intérieur : tempura / saumon / ciboulette / fromage   Dessus : mayo / teriyaki]]></description>
+										<content:encoded><![CDATA[<p><i>Intérieur : tempura / saumon / ciboulette / fromage</i></p>
+<p><i><span class="Apple-converted-space">  </span>Dessus : mayo / teriyaki</i></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">284</post-id>	</item>
+	</channel>
+</rss>

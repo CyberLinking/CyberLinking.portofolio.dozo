@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" 
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Boissons &#8211; Dozo</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Chinese sushi Restaurant</description>
+	<lastBuildDate>Thu, 21 Oct 2021 18:14:37 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>./../../../wp-content/uploads/2021/10/cropped-cropped-稻早Dozo-Logo-black-w500-32x32.jpg</url>
+	<title>Boissons &#8211; Dozo</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">198797679</site>	<item>
+		<title>Asahi</title>
+		<link>./../../../product/asahi/index.html</link>
+		
+		<dc:creator><![CDATA[cyberlinking.developer@gmail.com]]></dc:creator>
+		<pubDate>Wed, 13 Oct 2021 22:51:34 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=193</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">193</post-id>	</item>
+		<item>
+		<title>Tsingtao</title>
+		<link>./../../../product/tsingtao/index.html</link>
+		
+		<dc:creator><![CDATA[cyberlinking.developer@gmail.com]]></dc:creator>
+		<pubDate>Wed, 13 Oct 2021 22:51:00 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=192</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">192</post-id>	</item>
+		<item>
+		<title>Rosport</title>
+		<link>./../../../product/rosport/index.html</link>
+		
+		<dc:creator><![CDATA[cyberlinking.developer@gmail.com]]></dc:creator>
+		<pubDate>Wed, 13 Oct 2021 22:50:21 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=191</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">191</post-id>	</item>
+		<item>
+		<title>Viva</title>
+		<link>./../../../product/viva/index.html</link>
+		
+		<dc:creator><![CDATA[cyberlinking.developer@gmail.com]]></dc:creator>
+		<pubDate>Wed, 13 Oct 2021 22:49:55 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=190</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">190</post-id>	</item>
+		<item>
+		<title>Sprite</title>
+		<link>./../../../product/sprite/index.html</link>
+		
+		<dc:creator><![CDATA[cyberlinking.developer@gmail.com]]></dc:creator>
+		<pubDate>Wed, 13 Oct 2021 22:49:33 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=189</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">189</post-id>	</item>
+		<item>
+		<title>Fanta</title>
+		<link>./../../../product/fanta/index.html</link>
+		
+		<dc:creator><![CDATA[cyberlinking.developer@gmail.com]]></dc:creator>
+		<pubDate>Wed, 13 Oct 2021 22:49:02 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=188</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">188</post-id>	</item>
+		<item>
+		<title>Coca Light</title>
+		<link>./../../../product/coca-light/index.html</link>
+		
+		<dc:creator><![CDATA[cyberlinking.developer@gmail.com]]></dc:creator>
+		<pubDate>Wed, 13 Oct 2021 22:48:32 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=187</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">187</post-id>	</item>
+		<item>
+		<title>Coca</title>
+		<link>./../../../product/coca/index.html</link>
+		
+		<dc:creator><![CDATA[cyberlinking.developer@gmail.com]]></dc:creator>
+		<pubDate>Wed, 13 Oct 2021 22:48:03 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=186</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">186</post-id>	</item>
+	</channel>
+</rss>

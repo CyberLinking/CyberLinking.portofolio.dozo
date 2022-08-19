@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" 
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Volailles &#8211; Dozo</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link href="">./../../../index.html</link>
+	<description>Chinese sushi Restaurant</description>
+	<lastbuilddate>Wed, 13 Apr 2022 20:34:33 +0000</lastbuilddate>
+	<language>en-GB</language>
+	<sy:updateperiod>
+	hourly	</sy:updateperiod>
+	<sy:updatefrequency>
+	1	</sy:updatefrequency>
+	
+
+<image>
+	<url>./../../../../wp-content/uploads/2021/10/cropped-cropped-稻早Dozo-Logo-black-w500-32x32.jpg</url>
+	<title>Volailles &#8211; Dozo</title>
+	<link href="">./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">198797679</site>	<item>
+		<title>48 Canard impérial</title>
+		<link href="">./../../../product/48-canard-imperial/index.html</link>
+		
+		<dc:creator><![CDATA[cyberlinking.developer@gmail.com]]></dc:creator>
+		<pubdate>Wed, 08 Dec 2021 09:02:52 +0000</pubdate>
+				<guid ispermalink="false">./../../../../index.html?post_type=product&#038;p=560</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">560</post-id>	</item>
+		<item>
+		<title>47 Canard au basilic</title>
+		<link href="">./../../../product/47-canard-au-basilic/index.html</link>
+		
+		<dc:creator><![CDATA[cyberlinking.developer@gmail.com]]></dc:creator>
+		<pubdate>Wed, 13 Oct 2021 21:53:11 +0000</pubdate>
+				<guid ispermalink="false">./../../../../index.html?post_type=product&#038;p=157</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">157</post-id>	</item>
+		<item>
+		<title>46 Canard laqué</title>
+		<link href="">./../../../product/46-canard-laque/index.html</link>
+		
+		<dc:creator><![CDATA[cyberlinking.developer@gmail.com]]></dc:creator>
+		<pubdate>Wed, 13 Oct 2021 21:52:36 +0000</pubdate>
+				<guid ispermalink="false">./../../../../index.html?post_type=product&#038;p=156</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">156</post-id>	</item>
+		<item>
+		<title>42 Poulet caramélisé</title>
+		<link href="">./../../../product/42-poulet-caramelise/index.html</link>
+		
+		<dc:creator><![CDATA[cyberlinking.developer@gmail.com]]></dc:creator>
+		<pubdate>Wed, 13 Oct 2021 21:51:59 +0000</pubdate>
+				<guid ispermalink="false">./../../../../index.html?post_type=product&#038;p=155</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">155</post-id>	</item>
+		<item>
+		<title>41 Poulet au curry</title>
+		<link href="">./../../../product/41-poulet-au-curry/index.html</link>
+		
+		<dc:creator><![CDATA[cyberlinking.developer@gmail.com]]></dc:creator>
+		<pubdate>Wed, 13 Oct 2021 21:51:19 +0000</pubdate>
+				<guid ispermalink="false">./../../../../index.html?post_type=product&#038;p=154</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">154</post-id>	</item>
+		<item>
+		<title>40 Morceaux de poulet aux cacahuètes</title>
+		<link href="">./../../../product/40-morceaux-de-poulet-aux-cacahuetes/index.html</link>
+		
+		<dc:creator><![CDATA[cyberlinking.developer@gmail.com]]></dc:creator>
+		<pubdate>Wed, 13 Oct 2021 21:49:27 +0000</pubdate>
+				<guid ispermalink="false">./../../../../index.html?post_type=product&#038;p=153</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">153</post-id>	</item>
+	</channel>
+</rss>

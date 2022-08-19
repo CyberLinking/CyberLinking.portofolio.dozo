@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" 
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Végétarien &#8211; Dozo</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link href="">./../../../index.html</link>
+	<description>Chinese sushi Restaurant</description>
+	<lastbuilddate>Mon, 24 Jan 2022 18:25:32 +0000</lastbuilddate>
+	<language>en-GB</language>
+	<sy:updateperiod>
+	hourly	</sy:updateperiod>
+	<sy:updatefrequency>
+	1	</sy:updatefrequency>
+	
+
+<image>
+	<url>./../../../../wp-content/uploads/2021/10/cropped-cropped-稻早Dozo-Logo-black-w500-32x32.jpg</url>
+	<title>Végétarien &#8211; Dozo</title>
+	<link href="">./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">198797679</site>	<item>
+		<title>82 Marmite de tofu façon Thaï</title>
+		<link href="">./../../../product/82-marmite-de-tofu-facon-thai/index.html</link>
+		
+		<dc:creator><![CDATA[cyberlinking.developer@gmail.com]]></dc:creator>
+		<pubdate>Wed, 13 Oct 2021 22:26:50 +0000</pubdate>
+				<guid ispermalink="false">./../../../../index.html?post_type=product&#038;p=179</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">179</post-id>	</item>
+		<item>
+		<title>81 Tofu façon gran-mère</title>
+		<link href="">./../../../product/81-tofu-facon-gran-mere/index.html</link>
+		
+		<dc:creator><![CDATA[cyberlinking.developer@gmail.com]]></dc:creator>
+		<pubdate>Wed, 13 Oct 2021 22:26:09 +0000</pubdate>
+				<guid ispermalink="false">./../../../../index.html?post_type=product&#038;p=178</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">178</post-id>	</item>
+		<item>
+		<title>80 Haricots vert à l’ail</title>
+		<link href="">./../../../product/80-haricots-vert-a-lail/index.html</link>
+		
+		<dc:creator><![CDATA[cyberlinking.developer@gmail.com]]></dc:creator>
+		<pubdate>Wed, 13 Oct 2021 22:11:42 +0000</pubdate>
+				<guid ispermalink="false">./../../../../index.html?post_type=product&#038;p=177</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">177</post-id>	</item>
+	</channel>
+</rss>
